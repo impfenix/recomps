@@ -1,1 +1,2261 @@
+Código: CS0579, Causa: Duplicar atributo "System.Reflection.AssemblyCompanyAttribute", Arquivo: Stardew Valley.AssemblyInfo.cs(13,12), Projeto: Stardew Valley.csproj
 
+Código: CS0579, Causa: Duplicar atributo "System.Reflection.AssemblyConfigurationAttribute", Arquivo: Stardew Valley.AssemblyInfo.cs(14,12), Projeto: Stardew Valley.csproj
+
+Código: CS0579, Causa: Duplicar atributo "System.Reflection.AssemblyFileVersionAttribute", Arquivo: Stardew Valley.AssemblyInfo.cs(15,12), Projeto: Stardew Valley.csproj
+
+Código: CS0579, Causa: Duplicar atributo "System.Reflection.AssemblyInformationalVersionAttribute", Arquivo: Stardew Valley.AssemblyInfo.cs(16,12), Projeto: Stardew Valley.csproj
+
+Código: CS0579, Causa: Duplicar atributo "System.Reflection.AssemblyProductAttribute", Arquivo: Stardew Valley.AssemblyInfo.cs(17,12), Projeto: Stardew Valley.csproj
+
+Código: CS0579, Causa: Duplicar atributo "System.Reflection.AssemblyTitleAttribute", Arquivo: Stardew Valley.AssemblyInfo.cs(18,12), Projeto: Stardew Valley.csproj
+
+Código: CS0579, Causa: Duplicar atributo "System.Reflection.AssemblyVersionAttribute", Arquivo: Stardew Valley.AssemblyInfo.cs(19,12), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Audio/AudioCueModificationManager.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.BellsAndWhistles/CrabCritter.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.BellsAndWhistles/ParrotPlatform.cs(6,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.BellsAndWhistles/ParrotUpgradePerch.cs(11,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BmFont" não pode ser encontrado, Arquivo: StardewValley.BellsAndWhistles/SpriteText.cs(4,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Buffs/BuffEffects.cs(2,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Buildings/Building.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Buildings/Building.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(21,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Buildings/FishPond.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Buildings/FishPond.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Buildings/GreenhouseBuilding.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Buildings/GreenhouseBuilding.cs(6,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Buildings/GreenhouseBuilding.cs(7,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Buildings/GreenhouseBuilding.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Buildings/JunimoHut.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Buildings/PetBowl.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Characters/Child.cs(13,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Characters/Pet.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Delegates/MachineOutputDelegate.cs(1,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Delegates/TriggerActionContext.cs(2,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Enchantments/RubyEnchantment.cs(2,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Events/MovieTheaterScreeningEvent.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Events/SoundInTheNightEvent.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(4,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(6,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(7,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Internal/ShopBuilder.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Internal/ShopBuilder.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.ItemTypeDefinitions/BigCraftableDataDefinition.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.ItemTypeDefinitions/FlooringDataDefinition.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.ItemTypeDefinitions/MannequinDataDefinition.cs(4,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.ItemTypeDefinitions/ObjectDataDefinition.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.ItemTypeDefinitions/ToolDataDefinition.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.ItemTypeDefinitions/TrinketDataDefinition.cs(4,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.ItemTypeDefinitions/WallpaperDataDefinition.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.ItemTypeDefinitions/WeaponDataDefinition.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/AdventureGuild.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/AdventureGuild.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Beach.cs(11,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Beach.cs(12,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/BeachNightMarket.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/BoatTunnel.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/BugLand.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/BusStop.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Cabin.cs(10,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Caldera.cs(12,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/CommunityCenter.cs(15,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/CommunityCenter.cs(16,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/CommunityCenter.cs(17,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/CommunityCenter.cs(18,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/DecoratableLocation.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/DecoratableLocation.cs(12,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/DecoratableLocation.cs(13,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/DecoratableLocation.cs(14,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/DecoratableLocation.cs(15,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Desert.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/DesertFestival.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/DesertFestival.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/DesertFestival.cs(21,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/FarmHouse.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/FarmHouse.cs(17,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/FarmHouse.cs(18,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/FarmHouse.cs(19,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/FarmHouse.cs(20,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/FishShop.cs(3,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Forest.cs(11,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Forest.cs(12,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandEast.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandFarmCave.cs(10,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandFarmHouse.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandFarmHouse.cs(10,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandFieldOffice.cs(11,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandHut.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/IslandLocation.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandLocation.cs(12,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandLocation.cs(13,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandNorth.cs(11,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSecret.cs(10,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSouth.cs(12,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/IslandSouthEast.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSouthEastCave.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandWest.cs(14,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandWestCave1.cs(7,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/JojaMart.cs(4,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/LibraryMuseum.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/LibraryMuseum.cs(13,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/ManorHouse.cs(10,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MermaidHouse.cs(7,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MineShaft.cs(25,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MineShaft.cs(26,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MineShaft.cs(27,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MineShaft.cs(28,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Mountain.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Mountain.cs(10,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Mountain.cs(11,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Mountain.cs(12,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/MovieTheater.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/MovieTheater.cs(13,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(19,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(20,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(21,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Railroad.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Sewer.cs(3,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Submarine.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/Summit.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/Summit.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/Summit.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/Summit.cs(13,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Town.cs(13,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Town.cs(14,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Town.cs(15,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(14,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(15,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(16,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(17,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Locations/Woods.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Woods.cs(14,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Woods.cs(15,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Woods.cs(16,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Menus/AnimalQueryMenu.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/Billboard.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/BuildingSkinMenu.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/CharacterCustomization.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/CharacterCustomization.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/CharacterCustomization.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/CharacterCustomization.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/CollectionsPage.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/CoopMenu.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/LanguageSelectionMenu.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Menus/MuseumMenu.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/PowersTab.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/ProfileMenu.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/PurchaseAnimalsMenu.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Menus/PurchaseAnimalsMenu.cs(10,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Menus/RenovateMenu.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/ShopMenu.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/SocialPage.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/TailoringMenu.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Menus/TailorRecipeListTool.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Minigames/AbigailGame.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Minigames/BoatJourney.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Minigames/CraneGame.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Minigames/CraneGame.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Minigames/Darts.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Minigames/FishingGame.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Minigames/MineCart.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Minigames/TargetGame.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Minigames/TargetGame.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Minigames/TelescopeScene.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Minigames/TelescopeScene.cs(6,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Minigames/TelescopeScene.cs(7,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Mods/ModHooks.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/AngryRoger.cs(6,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/AngryRoger.cs(7,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/Duggy.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/Duggy.cs(6,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/Ghost.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/Ghost.cs(10,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/Leaper.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/Monster.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/Monster.cs(10,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/Monster.cs(11,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/ShadowGirl.cs(6,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Lidgren" não pode ser encontrado, Arquivo: StardewValley.Network/GameServer.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Lidgren" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenClient.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Lidgren" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenMessageUtils.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Lidgren" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenServer.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Network/LocationWeather.cs(3,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Lidgren" não pode ser encontrado, Arquivo: StardewValley.Network/NetBufferReadStream.cs(3,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Lidgren" não pode ser encontrado, Arquivo: StardewValley.Network/NetBufferWriteStream.cs(3,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Network/NetWorldState.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects.Trinkets/Trinket.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects/Cask.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Objects/Chest.cs(16,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects/Clothing.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects/DefaultPhoneHandler.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects/Mannequin.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects/PetLicense.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects/Ring.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects/StorageFurniture.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects/TV.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Objects/Wallpaper.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Pathfinding/PathFindController.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Quests/ItemDeliveryQuest.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Quests/SocializeQuest.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.SaveMigrations/SaveMigrator_1_6.cs(14,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.SaveMigrations/SaveMigrator_1_6.cs(15,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.SaveMigrations/SaveMigrator_1_6.cs(16,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.SaveMigrations/SaveMigrator_1_6.cs(26,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.SaveMigrations/SaveMigrator_1_6.cs(27,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyAuthListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyGameJoinRequestedListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyCreatedListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyEnteredListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyLeftListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyOperationalStateChangeListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyRichPresenceListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxySpecificUserDataListener.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyHelper.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetClient.cs(4,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(3,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetServer.cs(4,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Galaxy" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.SpecialOrders/SpecialOrder.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.TerrainFeatures/Flooring.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.TerrainFeatures/FruitTree.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.TerrainFeatures/GiantCrop.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.TerrainFeatures/HoeDirt.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.TerrainFeatures/Tree.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Tree.cs(16,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Tools/Hoe.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Tools/MeleeWeapon.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Triggers/CachedTriggerAction.cs(1,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Triggers/TriggerActionManager.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.Util/SynchronizedShopStock.cs(3,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.WorldMaps/MapArea.cs(4,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.WorldMaps/MapAreaPosition.cs(4,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.WorldMaps/MapAreaPosition.cs(7,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.WorldMaps/MapAreaTooltip.cs(2,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.WorldMaps/MapRegion.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley.WorldMaps/WorldMapManager.cs(4,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/AnimalHouse.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/AnimalHouse.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/AnimalHouse.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/AnimalHouse.cs(11,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Background.cs(6,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Background.cs(7,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/BundleGenerator.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/CachedMultiplayerMap.cs(2,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Character.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Character.cs(14,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Crop.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Crop.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(4,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(13,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(14,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(15,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(16,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(17,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(18,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(19,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(20,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(21,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(22,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(23,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(24,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(25,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(26,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(27,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(28,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(29,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(30,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(31,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(32,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(33,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(34,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(35,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(36,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(37,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DataLoader.cs(38,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DebugCommands.cs(16,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DebugCommands.cs(17,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DebugCommands.cs(18,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DebugCommands.cs(19,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/DebugCommands.cs(20,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/DebugCommands.cs(42,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/DebugCommands.cs(43,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TextCopy" não pode ser encontrado, Arquivo: StardewValley/DesktopClipboard.cs(5,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Event.cs(16,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Event.cs(17,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Event.cs(18,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Event.cs(19,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Event.cs(34,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Event.cs(35,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Event.cs(36,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Farm.cs(13,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Farm.cs(14,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Farm.cs(22,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Farm.cs(23,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Farm.cs(24,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Farm.cs(25,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/FarmAnimal.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/FarmAnimal.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/FarmAnimal.cs(13,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/FarmAnimal.cs(22,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Farmer.cs(20,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Farmer.cs(35,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Farmer.cs(36,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/FarmerTeam.cs(10,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/FarmerTeam.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Fence.cs(8,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "SkiaSharp" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(18,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(27,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(28,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(29,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(30,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(31,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(32,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(33,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(34,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(35,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(36,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(37,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(38,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(39,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(40,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(41,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Game1.cs(42,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(67,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(68,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(69,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(70,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameLocation.cs(20,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameLocation.cs(21,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameLocation.cs(22,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameLocation.cs(23,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameLocation.cs(24,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameLocation.cs(25,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameLocation.cs(26,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameLocation.cs(27,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameLocation.cs(28,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(50,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(51,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(52,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(53,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(54,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/GameStateQuery.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/HouseRenovation.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/InteriorDoor.cs(6,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/InteriorDoor.cs(7,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/InteriorDoor.cs(8,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/InteriorDoor.cs(9,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/ItemContextTagManager.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/ItemContextTagManager.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/ItemContextTagManager.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/ItemStockInformation.cs(2,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/LocalizedContentManager.cs(12,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/LocationContexts.cs(2,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/MachineDataUtility.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/MachineDataUtility.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/MovieConcession.cs(5,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Multiplayer.cs(9,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/NPC.cs(15,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/NPC.cs(26,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Object.cs(19,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Object.cs(20,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Object.cs(21,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Object.cs(22,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Object.cs(23,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Object.cs(24,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Object.cs(25,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Object.cs(26,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Object.cs(27,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Object.cs(40,7), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/SaveGame.cs(18,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/SaveGame.cs(19,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/SaveGame.cs(20,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/StartupPreferences.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Stats.cs(6,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Stats.cs(7,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/TemporaryAnimatedSprite.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Tool.cs(11,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Utility.cs(20,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Utility.cs(21,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Utility.cs(22,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Utility.cs(23,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Utility.cs(24,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Utility.cs(25,21), Projeto: Stardew Valley.csproj
+
+Código: CS0234, Causa: Nome de tipo ou namespace "GameData" não existe, Arquivo: StardewValley/Utility.cs(26,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(43,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(44,7), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "AudioCueData" não pode ser encontrado, Arquivo: StardewValley.Audio/AudioCueModificationManager.cs(14,28), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.BellsAndWhistles/ParrotUpgradePerch.cs(581,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "RandomBundleData" não pode ser encontrado, Arquivo: StardewValley/BundleGenerator.cs(18,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "RandomBundleData" não pode ser encontrado, Arquivo: StardewValley/BundleGenerator.cs(12,14), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FontFile" não pode ser encontrado, Arquivo: StardewValley.BellsAndWhistles/SpriteText.cs(478,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FontChar" não pode ser encontrado, Arquivo: StardewValley.BellsAndWhistles/SpriteText.cs(46,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FontFile" não pode ser encontrado, Arquivo: StardewValley.BellsAndWhistles/SpriteText.cs(48,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley/CachedMultiplayerMap.cs(12,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/WorldDate.cs(63,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/WorldDate.cs(262,44), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/WorldDate.cs(139,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/WorldDate.cs(23,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley/Character.cs(261,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/Character.cs(1002,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/Character.cs(1056,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley/NPC.cs(680,18), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(270,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Tile" não pode ser encontrado, Arquivo: StardewValley/InteriorDoor.cs(21,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(279,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(279,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley/NPC.cs(851,37), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(451,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuffAttributesData" não pode ser encontrado, Arquivo: StardewValley.Buffs/BuffEffects.cs(126,18), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(464,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(479,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CueDefinition" não pode ser encontrado, Arquivo: StardewValley/ISoundBank.cs(32,14), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CueDefinition" não pode ser encontrado, Arquivo: StardewValley/ISoundBank.cs(41,2), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuffAttributesData" não pode ser encontrado, Arquivo: StardewValley.Buffs/BuffEffects.cs(101,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(494,43), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(629,39), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley/NPC.cs(4837,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingItemConversion" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(708,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley/NPC.cs(4850,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingChest" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(813,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(818,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingChest" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(818,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PetData" não pode ser encontrado, Arquivo: StardewValley.Characters/Pet.cs(250,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PetData" não pode ser encontrado, Arquivo: StardewValley.Characters/Pet.cs(263,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingItemConversion" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(1626,46), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PetGift" não pode ser encontrado, Arquivo: StardewValley.Characters/Pet.cs(763,34), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(1873,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(1940,72), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PetBehaviorChanges" não pode ser encontrado, Arquivo: StardewValley.Characters/Pet.cs(795,37), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PetBehavior" não pode ser encontrado, Arquivo: StardewValley.Characters/Pet.cs(845,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingPlacementTile" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(2059,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Buildings/Building.cs(2384,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CropData" não pode ser encontrado, Arquivo: StardewValley/Crop.cs(330,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CropData" não pode ser encontrado, Arquivo: StardewValley/Crop.cs(343,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "HarvestMethod" não pode ser encontrado, Arquivo: StardewValley/Crop.cs(381,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LimitedStockMode" não pode ser encontrado, Arquivo: StardewValley/ItemStockInformation.cs(22,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley.Delegates/MachineOutputDelegate.cs(13,88), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Crop.cs(421,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Crop.cs(442,56), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LimitedStockMode" não pode ser encontrado, Arquivo: StardewValley/ItemStockInformation.cs(46,105), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Crop.cs(780,43), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TriggerActionData" não pode ser encontrado, Arquivo: StardewValley.Delegates/TriggerActionContext.cs(16,18), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GiantCropData" não pode ser encontrado, Arquivo: StardewValley/Crop.cs(818,70), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TriggerActionData" não pode ser encontrado, Arquivo: StardewValley.Delegates/TriggerActionContext.cs(26,68), Projeto: Stardew Valley.csproj
+
+Código: CS1061, Causa: ‘LimitedStockMode’ não contém definição para "Global", Arquivo: StardewValley/ItemStockInformation.cs(46,151), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModFarmType" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(56,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModLanguage" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(63,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModWallpaperOrFlooring" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(70,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "AudioCueData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(91,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BigCraftableData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(99,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuffData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(113,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(121,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(143,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ConcessionItemData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(150,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ConcessionTaste" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(157,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CropData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(181,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LostItem" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(188,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FarmAnimalData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(203,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FenceData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(211,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FishPondData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(232,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FloorPathData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(240,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FruitTreeData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(248,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GarbageCanData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(262,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GiantCropData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(269,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "HomeRenovation" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(291,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IncomingPhoneCallData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(298,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "JukeboxTrackData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(306,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationContextData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(314,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(322,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(329,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MakeoverOutfit" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(343,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MannequinData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(350,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MinecartNetworkData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(357,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MonsterSlayerQuestData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(371,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(379,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieCharacterReaction" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(387,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MuseumRewards" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(394,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ObjectData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(410,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PantsData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(425,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PassiveFestivalData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(432,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PetData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(440,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PowersData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(447,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "RandomBundleData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(461,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShirtData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(476,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(483,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "SpecialOrderData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(490,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TailorItemRecipe" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(497,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ToolData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(505,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TriggerActionData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(512,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TrinketData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(519,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WeaponData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(527,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WeddingData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(534,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WildTreeData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(542,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WorldMapRegionData" não pode ser encontrado, Arquivo: StardewValley/DataLoader.cs(550,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemAdditionalConsumedItems" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(39,75), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemAdditionalConsumedItems" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(39,129), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputRule" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(65,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputTrigger" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(65,76), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputTriggerRule" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(65,161), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineData" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(115,61), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputTrigger" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(115,86), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputRule" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(115,171), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputTriggerRule" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(115,199), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputRule" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(115,241), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputTriggerRule" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(115,282), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineData" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(148,64), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputRule" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(148,89), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(148,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(163,53), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(163,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(195,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "StatIncrement" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(295,38), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineEffects" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(318,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IPropertyCollection" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(89,38), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(370,65), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(396,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IPropertyCollection" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(105,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/MachineDataUtility.cs(24,81), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(119,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(119,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(128,48), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TileSheet" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(128,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(138,48), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TileSheet" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(138,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2141,82), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(156,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(156,45), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(167,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(199,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(199,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(210,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(179,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(190,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(190,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(220,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(220,53), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2191,85), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Extensions/FrameworkExtensions.cs(231,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2228,77), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2264,84), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ConcessionItemData" não pode ser encontrado, Arquivo: StardewValley/MovieConcession.cs(14,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2287,81), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ConcessionItemData" não pode ser encontrado, Arquivo: StardewValley/MovieConcession.cs(65,25), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2307,81), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineItemOutput" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2340,83), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineData" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2422,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BigCraftableData" não pode ser encontrado, Arquivo: StardewValley.ItemTypeDefinitions/BigCraftableDataDefinition.cs(77,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineData" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2544,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineOutputRule" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2544,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineEffects" não pode ser encontrado, Arquivo: StardewValley/Object.cs(2622,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModWallpaperOrFlooring" não pode ser encontrado, Arquivo: StardewValley.ItemTypeDefinitions/FlooringDataDefinition.cs(134,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ISpawnItemData" não pode ser encontrado, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(822,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ISpawnItemData" não pode ser encontrado, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(878,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ISpawnItemData" não pode ser encontrado, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(890,56), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ObjectData" não pode ser encontrado, Arquivo: StardewValley/Object.cs(5218,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MannequinData" não pode ser encontrado, Arquivo: StardewValley.ItemTypeDefinitions/MannequinDataDefinition.cs(54,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "QuantityModifier" não pode ser encontrado, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(914,220), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "QuantityModifier" não pode ser encontrado, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(914,258), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "QuantityModifier" não pode ser encontrado, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(914,324), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "QuantityModifier" não pode ser encontrado, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(914,360), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ISpawnItemData" não pode ser encontrado, Arquivo: StardewValley.Internal/ItemQueryResolver.cs(998,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineData" não pode ser encontrado, Arquivo: StardewValley/Object.cs(5970,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ObjectData" não pode ser encontrado, Arquivo: StardewValley.ItemTypeDefinitions/ObjectDataDefinition.cs(450,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(570,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(7639,34), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(7639,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/AdventureGuild.cs(28,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/AdventureGuild.cs(28,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MonsterSlayerQuestData" não pode ser encontrado, Arquivo: StardewValley.Locations/AdventureGuild.cs(159,81), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MonsterSlayerQuestData" não pode ser encontrado, Arquivo: StardewValley.Locations/AdventureGuild.cs(256,32), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ToolData" não pode ser encontrado, Arquivo: StardewValley.ItemTypeDefinitions/ToolDataDefinition.cs(108,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MonsterSlayerQuestData" não pode ser encontrado, Arquivo: StardewValley.Locations/AdventureGuild.cs(277,84), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley.Internal/ShopBuilder.cs(28,87), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MachineEffects" não pode ser encontrado, Arquivo: StardewValley/Object.cs(450,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ToolData" não pode ser encontrado, Arquivo: StardewValley.ItemTypeDefinitions/ToolDataDefinition.cs(121,61), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ToolData" não pode ser encontrado, Arquivo: StardewValley.Internal/ShopBuilder.cs(134,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ToolUpgradeData" não pode ser encontrado, Arquivo: StardewValley.Internal/ShopBuilder.cs(134,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley.Internal/ShopBuilder.cs(209,60), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Internal/ShopBuilder.cs(209,28), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TrinketData" não pode ser encontrado, Arquivo: StardewValley.ItemTypeDefinitions/TrinketDataDefinition.cs(54,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley.Internal/ShopBuilder.cs(221,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopItemData" não pode ser encontrado, Arquivo: StardewValley.Internal/ShopBuilder.cs(221,76), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/Beach.cs(338,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Beach.cs(338,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModWallpaperOrFlooring" não pode ser encontrado, Arquivo: StardewValley.ItemTypeDefinitions/WallpaperDataDefinition.cs(134,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(2363,86), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Beach.cs(397,87), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WeaponData" não pode ser encontrado, Arquivo: StardewValley.ItemTypeDefinitions/WeaponDataDefinition.cs(82,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/BeachNightMarket.cs(55,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/BeachNightMarket.cs(55,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TrinketData" não pode ser encontrado, Arquivo: StardewValley.Objects.Trinkets/Trinket.cs(182,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TrinketData" não pode ser encontrado, Arquivo: StardewValley.Objects.Trinkets/Trinket.cs(19,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Bush.cs(202,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/BoatTunnel.cs(136,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/BoatTunnel.cs(136,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/BusStop.cs(69,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/BusStop.cs(69,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/Event.cs(12221,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Event.cs(12221,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/FarmHouse.cs(696,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/FarmHouse.cs(696,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/Cabin.cs(106,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Cabin.cs(106,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandLocation.cs(352,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandLocation.cs(352,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/Caldera.cs(125,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Caldera.cs(125,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8605,73), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8695,65), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/CommunityCenter.cs(344,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/CommunityCenter.cs(367,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/CommunityCenter.cs(367,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Locations/CommunityCenter.cs(1263,63), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "StaticTile" não pode ser encontrado, Arquivo: StardewValley.Locations/CommunityCenter.cs(1263,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FloorPathData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Flooring.cs(186,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FloorPathData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Flooring.cs(199,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CueDefinition" não pode ser encontrado, Arquivo: StardewValley/SoundBankWrapper.cs(63,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CueDefinition" não pode ser encontrado, Arquivo: StardewValley/SoundBankWrapper.cs(75,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TileSheet" não pode ser encontrado, Arquivo: StardewValley.Locations/DecoratableLocation.cs(283,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TileSheet" não pode ser encontrado, Arquivo: StardewValley.Locations/DecoratableLocation.cs(49,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Locations/DecoratableLocation.cs(51,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/Desert.cs(50,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Desert.cs(50,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Desert.cs(238,87), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/DesertFestival.cs(714,64), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FruitTreeData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/FruitTree.cs(501,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FruitTreeData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/FruitTree.cs(514,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FruitTreeFruitData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/FruitTree.cs(631,30), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/DesertFestival.cs(1804,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/DesertFestival.cs(1804,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/FruitTree.cs(689,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TriggerActionData" não pode ser encontrado, Arquivo: StardewValley.Triggers/CachedTriggerAction.cs(9,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TriggerActionData" não pode ser encontrado, Arquivo: StardewValley.Triggers/CachedTriggerAction.cs(20,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TriggerActionData" não pode ser encontrado, Arquivo: StardewValley.Triggers/TriggerActionManager.cs(640,30), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TriggerActionData" não pode ser encontrado, Arquivo: StardewValley.Triggers/TriggerActionManager.cs(763,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(1937,32), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley/Farm.cs(917,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/Farm.cs(951,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Farm.cs(951,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GiantCropData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/GiantCrop.cs(181,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GiantCropData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/GiantCrop.cs(194,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Tile" não pode ser encontrado, Arquivo: StardewValley/Farm.cs(108,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GiantCropData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/GiantCrop.cs(206,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GiantCropHarvestItemData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/GiantCrop.cs(253,25), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GiantCropData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/GiantCrop.cs(19,71), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/FishShop.cs(68,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FarmAnimalData" não pode ser encontrado, Arquivo: StardewValley/FarmAnimal.cs(454,39), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FarmAnimalData" não pode ser encontrado, Arquivo: StardewValley/FarmAnimal.cs(505,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FarmAnimalData" não pode ser encontrado, Arquivo: StardewValley/FarmAnimal.cs(514,101), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FarmAnimalData" não pode ser encontrado, Arquivo: StardewValley/FarmAnimal.cs(538,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WorldMapAreaData" não pode ser encontrado, Arquivo: StardewValley.WorldMaps/MapArea.cs(32,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/Forest.cs(640,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Forest.cs(640,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "StatIncrement" não pode ser encontrado, Arquivo: StardewValley/FarmAnimal.cs(891,39), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Forest.cs(699,87), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FarmAnimalHarvestType" não pode ser encontrado, Arquivo: StardewValley/FarmAnimal.cs(1219,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WorldMapAreaData" não pode ser encontrado, Arquivo: StardewValley.WorldMaps/MapArea.cs(37,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/Forest.cs(880,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/FarmAnimal.cs(2099,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WorldMapAreaPositionData" não pode ser encontrado, Arquivo: StardewValley.WorldMaps/MapAreaPosition.cs(30,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandEast.cs(290,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WorldMapAreaPositionData" não pode ser encontrado, Arquivo: StardewValley.WorldMaps/MapAreaPosition.cs(35,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TemporaryAnimatedSpriteDefinition" não pode ser encontrado, Arquivo: StardewValley/TemporaryAnimatedSprite.cs(2113,55), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandFarmCave.cs(443,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WorldMapTooltipData" não pode ser encontrado, Arquivo: StardewValley.WorldMaps/MapAreaTooltip.cs(16,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandFarmHouse.cs(199,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandFarmHouse.cs(199,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WorldMapTooltipData" não pode ser encontrado, Arquivo: StardewValley.WorldMaps/MapAreaTooltip.cs(28,41), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WorldMapRegionData" não pode ser encontrado, Arquivo: StardewValley.WorldMaps/MapRegion.cs(27,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandFieldOffice.cs(724,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WorldMapRegionData" não pode ser encontrado, Arquivo: StardewValley.WorldMaps/MapRegion.cs(32,30), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandHut.cs(51,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley/Farmer.cs(1700,18), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MannequinData" não pode ser encontrado, Arquivo: StardewValley.Objects/Mannequin.cs(84,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/AnimalHouse.cs(58,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/AnimalHouse.cs(58,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandLocation.cs(146,87), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(16415,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandLocation.cs(437,48), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(13259,67), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/AnimalHouse.cs(170,64), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MannequinData" não pode ser encontrado, Arquivo: StardewValley.Objects/Mannequin.cs(22,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandNorth.cs(239,87), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandNorth.cs(437,87), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandNorth.cs(296,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandNorth.cs(296,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WildTreeData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Tree.cs(231,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSecret.cs(112,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSecret.cs(112,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSecret.cs(145,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WildTreeData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Tree.cs(329,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WildTreeData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Tree.cs(342,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ToolData" não pode ser encontrado, Arquivo: StardewValley/Tool.cs(344,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WildTreeItemData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Tree.cs(615,25), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSouth.cs(519,87), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSouth.cs(666,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSouth.cs(666,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSouth.cs(735,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WildTreeData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Tree.cs(1060,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WildTreeTapItemData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Tree.cs(1378,41), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley/Farmer.cs(687,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WildTreeData" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Tree.cs(23,38), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley.TerrainFeatures/Tree.cs(92,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Background.cs(102,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Pathfinding/LocationWarpRoute.cs(10,18), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Pathfinding/LocationWarpRoute.cs(15,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandSouthEastCave.cs(124,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandWest.cs(184,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandWest.cs(309,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandWest.cs(309,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Pathfinding/WarpPathfindingCache.cs(49,90), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Pathfinding/WarpPathfindingCache.cs(72,83), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Pathfinding/WarpPathfindingCache.cs(128,81), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Pathfinding/WarpPathfindingCache.cs(143,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Pathfinding/WarpPathfindingCache.cs(21,44), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/IslandWestCave1.cs(212,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(308,44), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(318,44), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/JojaMart.cs(61,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/JojaMart.cs(61,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/LibraryMuseum.cs(240,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MuseumRewards" não pode ser encontrado, Arquivo: StardewValley.Locations/LibraryMuseum.cs(302,32), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/LibraryMuseum.cs(456,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/LibraryMuseum.cs(456,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MuseumRewards" não pode ser encontrado, Arquivo: StardewValley.Locations/LibraryMuseum.cs(482,75), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MuseumRewards" não pode ser encontrado, Arquivo: StardewValley.Locations/LibraryMuseum.cs(512,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(1676,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/ManorHouse.cs(31,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/MermaidHouse.cs(95,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MermaidHouse.cs(95,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/MineShaft.cs(3053,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MineShaft.cs(3053,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/Mountain.cs(69,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Mountain.cs(69,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Mountain.cs(352,87), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieCharacterReaction" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(319,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(606,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(632,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(645,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(967,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(983,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1020,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1034,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1041,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1071,38), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1091,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1091,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieCharacterReaction" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1236,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1348,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1348,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(1836,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(40,24), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieData" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(42,38), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MovieCharacterReaction" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(44,24), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ConcessionTaste" não pode ser encontrado, Arquivo: StardewValley.Locations/MovieTheater.cs(46,24), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/Railroad.cs(130,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/Railroad.cs(130,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IAuthListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyAuthListener.cs(7,44), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FailureReason" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyAuthListener.cs(13,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FailureReason" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyAuthListener.cs(22,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FailureReason" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyAuthListener.cs(37,37), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IGameJoinRequestedListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyGameJoinRequestedListener.cs(7,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyGameJoinRequestedListener.cs(10,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyGameJoinRequestedListener.cs(14,48), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyGameJoinRequestedListener.cs(23,43), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ILobbyCreatedListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyCreatedListener.cs(7,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyCreatedListener.cs(10,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyCreateResult" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyCreatedListener.cs(10,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyCreatedListener.cs(14,43), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyCreateResult" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyCreatedListener.cs(14,53), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyCreatedListener.cs(23,38), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyCreateResult" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyCreatedListener.cs(23,56), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ILobbyDataListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataListener.cs(7,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataListener.cs(10,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataListener.cs(10,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataListener.cs(14,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataListener.cs(14,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataListener.cs(23,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataListener.cs(23,60), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ILobbyDataRetrieveListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(7,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(10,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(13,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FailureReason" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(13,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(18,48), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(18,74), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FailureReason" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(18,84), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(25,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(31,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FailureReason" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyDataRetrieveListener.cs(31,68), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ILobbyEnteredListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyEnteredListener.cs(7,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyEnteredListener.cs(10,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyEnterResult" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyEnteredListener.cs(10,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyEnteredListener.cs(14,43), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyEnterResult" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyEnteredListener.cs(14,53), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyEnteredListener.cs(23,38), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyEnterResult" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyEnteredListener.cs(23,56), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ILobbyLeftListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyLeftListener.cs(7,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyLeftListener.cs(10,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyLeaveReason" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyLeftListener.cs(10,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyLeftListener.cs(14,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyLeaveReason" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyLeftListener.cs(14,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyLeftListener.cs(23,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyLeaveReason" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyLeftListener.cs(23,53), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ILobbyMemberStateListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(7,56), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(10,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(10,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyMemberStateChange" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(10,46), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(14,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(14,57), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyMemberStateChange" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(14,67), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(24,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(24,67), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyMemberStateChange" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyLobbyMemberStateListener.cs(24,86), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IOperationalStateChangeListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyOperationalStateChangeListener.cs(7,62), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IRichPresenceListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyRichPresenceListener.cs(7,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyRichPresenceListener.cs(10,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyRichPresenceListener.cs(14,43), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxyRichPresenceListener.cs(22,45), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ISpecificUserDataListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxySpecificUserDataListener.cs(7,56), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxySpecificUserDataListener.cs(10,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxySpecificUserDataListener.cs(14,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy.Listeners/GalaxySpecificUserDataListener.cs(22,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IAuthListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyHelper.cs(85,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetClient.cs(37,34), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetClient.cs(126,45), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetClient.cs(130,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetClient.cs(156,45), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetClient.cs(12,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetClient.cs(16,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetClient.cs(25,25), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(50,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(67,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(82,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(99,20), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(141,37), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(150,34), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(150,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(170,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyEnterResult" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(170,59), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(174,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(191,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetHelper.cs(22,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetServer.cs(143,34), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetServer.cs(201,32), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetServer.cs(206,30), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetServer.cs(211,45), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetServer.cs(226,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetServer.cs(266,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetServer.cs(296,37), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxyNetServer.cs(12,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(74,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(78,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(80,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(118,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyType" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(123,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(170,24), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(234,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyCreateResult" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(234,54), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(244,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(244,53), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyMemberStateChange" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(244,72), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(266,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ILobbyLeftListener" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(266,51), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(290,34), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LobbyEnterResult" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(290,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(327,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(355,21), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(361,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(411,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(411,76), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(420,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(420,60), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(420,96), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(501,45), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(523,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(538,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(570,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(36,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(38,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(40,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(42,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GalaxyID" não pode ser encontrado, Arquivo: StardewValley.SDKs.GogGalaxy/GalaxySocket.cs(66,28), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IDisplayDevice" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(446,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(448,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(450,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(696,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Menus/BuildingSkinMenu.cs(31,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Menus/BuildingSkinMenu.cs(36,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Menus/BuildingSkinMenu.cs(46,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(705,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(723,23), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(725,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModFarmType" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(795,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BigCraftableData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(822,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(825,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Menus/CarpenterMenu.cs(12,20), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Menus/CarpenterMenu.cs(13,20), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(828,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CropData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(831,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley.Menus/CarpenterMenu.cs(15,46), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Menus/CarpenterMenu.cs(15,65), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FarmAnimalData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(834,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FloorPathData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(837,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FruitTreeData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(840,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "JukeboxTrackData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(843,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(846,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationContextData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(849,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ObjectData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(855,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PantsData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(858,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PetData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(861,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShirtData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(864,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ToolData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(867,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "WeaponData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(870,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Menus/PurchaseAnimalsMenu.cs(795,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopThemeData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(351,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(752,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(794,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TailorItemRecipe" não pode ser encontrado, Arquivo: StardewValley.Menus/TailoringMenu.cs(756,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModFarmType" não pode ser encontrado, Arquivo: StardewValley.Menus/CoopMenu.cs(163,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TailorItemRecipe" não pode ser encontrado, Arquivo: StardewValley.Menus/TailoringMenu.cs(104,14), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(278,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(278,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(191,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopThemeData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(33,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopThemeData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(103,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PlantableRule" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(720,40), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(1374,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(1392,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(1664,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(2358,78), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModLanguage" não pode ser encontrado, Arquivo: StardewValley.Menus/LanguageSelectionMenu.cs(19,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "SocialTabBehavior" não pode ser encontrado, Arquivo: StardewValley.Menus/SocialPage.cs(35,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModLanguage" não pode ser encontrado, Arquivo: StardewValley.Menus/LanguageSelectionMenu.cs(32,75), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Menus/SocialPage.cs(44,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley.Menus/SocialPage.cs(53,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(2913,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(2913,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley.Menus/SocialPage.cs(77,54), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(2923,77), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(2918,30), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(2918,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(7475,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8222,23), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GarbageCanItemData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8534,88), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8619,70), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MinecartDestinationData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10302,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10832,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10871,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10948,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(11017,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(11083,25), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(11335,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationContextData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(12974,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FishAreaData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(13791,77), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "SpawnFishData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14042,141), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14329,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14349,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "StaticTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14561,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "AnimatedTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14598,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14716,24), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14735,28), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(16800,44), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Tile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(17448,34), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(175,15), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(207,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(210,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(213,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(216,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(239,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Mods/ModHooks.cs(39,72), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Mods/ModHooks.cs(39,95), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Monsters/Monster.cs(1011,51), Projeto: Stardew Valley.csproj
+
+Código: CS0227, Causa: Código sem segurança (unsafe) só pode aparecer se a compilação for com /unsafe, Arquivo: StardewValley.Network.Compress/LZ4NetCompression.cs(71,24), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetBuffer" não pode ser encontrado, Arquivo: StardewValley.Network/NetBufferReadStream.cs(11,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetBuffer" não pode ser encontrado, Arquivo: StardewValley.Network/NetBufferReadStream.cs(33,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetBuffer" não pode ser encontrado, Arquivo: StardewValley.Network/NetBufferWriteStream.cs(11,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetBuffer" não pode ser encontrado, Arquivo: StardewValley.Network/NetBufferWriteStream.cs(39,30), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetIncomingMessage" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenClient.cs(152,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetIncomingMessage" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenClient.cs(157,32), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetIncomingMessage" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenClient.cs(162,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetConnectionStatus" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenClient.cs(172,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetIncomingMessage" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenClient.cs(208,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetClient" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenClient.cs(10,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Network/NetDancePartner.cs(112,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetOutgoingMessage" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenMessageUtils.cs(12,60), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetIncomingMessage" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenServer.cs(209,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetIncomingMessage" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenServer.cs(218,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetIncomingMessage" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenServer.cs(254,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetConnection" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenServer.cs(296,32), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetConnection" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenServer.cs(309,37), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetServer" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenServer.cs(13,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetConnection" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenServer.cs(15,18), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "NetConnection" não pode ser encontrado, Arquivo: StardewValley.Network/LidgrenServer.cs(17,24), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationContextData" não pode ser encontrado, Arquivo: StardewValley.Network/LocationWeather.cs(136,59), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley.Network/NetWorldState.cs(40,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(2106,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(10439,55), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(10461,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(10470,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(10475,41), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(10488,36), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(10500,93), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(10575,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IDisplayDevice" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(2784,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CreateLocationData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(7362,59), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(70,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(72,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(74,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(76,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "QuantityModifier" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(4335,64), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "QuantityModifier" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(4335,93), Projeto: Stardew Valley.csproj
+
+Código: CS0103, Causa: O nome "MusicContext" não existe no contexto atual, Arquivo: StardewValley/Game1.cs(10439,84), Projeto: Stardew Valley.csproj
+
+Código: CS0103, Causa: O nome "MusicContext" não existe no contexto atual, Arquivo: StardewValley/Game1.cs(10461,71), Projeto: Stardew Valley.csproj
+
+Código: CS0103, Causa: O nome "MusicContext" não existe no contexto atual, Arquivo: StardewValley/Game1.cs(10470,76), Projeto: Stardew Valley.csproj
+
+Código: CS0103, Causa: O nome "MusicContext" não existe no contexto atual, Arquivo: StardewValley/Game1.cs(10475,70), Projeto: Stardew Valley.csproj
+
+Código: CS0103, Causa: O nome "MusicContext" não existe no contexto atual, Arquivo: StardewValley/Game1.cs(10500,122), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(15621,38), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(15636,64), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(15845,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(15854,42), Projeto: Stardew Valley.csproj
+
+Código: CS0227, Causa: Código sem segurança (unsafe) só pode aparecer se a compilação for com /unsafe, Arquivo: StardewValley/Game1.cs(16584,24), Projeto: Stardew Valley.csproj
+
+Código: CS0103, Causa: O nome "QuantityModifier" não existe no contexto atual, Arquivo: StardewValley/Utility.cs(4335,138), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(2450,53), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(2777,56), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(2799,49), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(2849,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(2947,47), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PassiveFestivalData" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(5474,70), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(5491,69), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "PassiveFestivalData" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(5491,129), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(5547,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(6024,46), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley/Utility.cs(7155,63), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModWallpaperOrFlooring" não pode ser encontrado, Arquivo: StardewValley/Objects/Wallpaper.cs(92,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModWallpaperOrFlooring" não pode ser encontrado, Arquivo: StardewValley/Objects/Wallpaper.cs(25,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(7475,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8222,23), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "GarbageCanItemData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8534,88), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8619,70), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MinecartDestinationData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10302,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10832,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10871,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10948,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(11017,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(11083,25), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "FishAreaData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(13791,77), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "SpawnFishData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14042,141), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14329,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14349,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "StaticTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14561,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "AnimatedTile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14598,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14716,24), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14735,28), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(16800,44), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Tile" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(17448,34), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(11335,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "LocationContextData" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(12974,17), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModLanguage" não pode ser encontrado, Arquivo: StardewValley.Menus/LanguageSelectionMenu.cs(19,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "SocialTabBehavior" não pode ser encontrado, Arquivo: StardewValley.Menus/SocialPage.cs(35,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModLanguage" não pode ser encontrado, Arquivo: StardewValley.Menus/LanguageSelectionMenu.cs(32,75), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley.Menus/SocialPage.cs(44,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley.Menus/SocialPage.cs(53,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CharacterData" não pode ser encontrado, Arquivo: StardewValley.Menus/SocialPage.cs(77,54), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopThemeData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(351,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(752,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(794,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TailorItemRecipe" não pode ser encontrado, Arquivo: StardewValley.Menus/TailoringMenu.cs(756,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TailorItemRecipe" não pode ser encontrado, Arquivo: StardewValley.Menus/TailoringMenu.cs(104,14), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(278,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(278,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(191,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopThemeData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(33,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopThemeData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(103,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(1557,30), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(1569,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Season" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(2106,50), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(2824,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "xTile" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(2824,58), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley.Locations/VolcanoDungeon.cs(2694,22), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley.Locations/Woods.cs(463,66), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "CreateLocationData" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(7362,59), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(15845,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(15854,42), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Gender" não pode ser encontrado, Arquivo: StardewValley/NPC.cs(192,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(2913,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(2918,30), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(7475,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8222,23), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(8619,70), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10832,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10871,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(10948,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(11017,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(11083,25), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14716,24), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Location" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(14735,28), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(1664,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(207,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(210,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(213,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Layer" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(216,27), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "Map" não pode ser encontrado, Arquivo: StardewValley/GameLocation.cs(239,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "IDisplayDevice" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(446,16), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Menus/BuildingSkinMenu.cs(31,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Menus/BuildingSkinMenu.cs(36,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "BuildingSkin" não pode ser encontrado, Arquivo: StardewValley.Menus/BuildingSkinMenu.cs(46,31), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModFarmType" não pode ser encontrado, Arquivo: StardewValley.Menus/CoopMenu.cs(163,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "SocialTabBehavior" não pode ser encontrado, Arquivo: StardewValley.Menus/SocialPage.cs(35,19), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopThemeData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(351,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(752,29), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(794,35), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TailorItemRecipe" não pode ser encontrado, Arquivo: StardewValley.Menus/TailoringMenu.cs(756,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "TailorItemRecipe" não pode ser encontrado, Arquivo: StardewValley.Menus/TailoringMenu.cs(104,14), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(278,33), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopOwnerData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(278,52), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(191,9), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopThemeData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(33,10), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ShopThemeData" não pode ser encontrado, Arquivo: StardewValley.Menus/ShopMenu.cs(103,26), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(723,23), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "MusicContext" não pode ser encontrado, Arquivo: StardewValley/Game1.cs(725,12), Projeto: Stardew Valley.csproj
+
+Código: CS0246, Causa: Tipo ou namespace "ModFarmType" não pode ser encontrado, Arquivo: Stard
